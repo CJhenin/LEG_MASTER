@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Software" targetName="Software.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99db5b0f-f5ac-4ec2-85a2-38e7ae8707da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hardware/F407ZGT6/F407ZGT6.PrjPcb" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/F407ZGT6/F407ZGT6.PrjPcb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/F407ZGT6/Sheet1.SchDoc" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/F407ZGT6/Sheet1.SchDoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/F407ZGT6/__Previews/Sheet1.SchDocPreview" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/F407ZGT6/__Previews/Sheet1.SchDocPreview" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cCi7L6Ndi6I4m60czoMbNZSsMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OpenOCD Download & Run.F407ZGT6.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.F407ZGT6">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Software.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Software" TARGET_NAME="Software.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Software" RUN_TARGET_NAME="Software.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F407ZGT6" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Software" TARGET_NAME="Software.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="Software" RUN_TARGET_NAME="Software.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="C:\Users\lenovo\Desktop\Leg_Master\Software\Config\ST-Link.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Software.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.F407ZGT6" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99db5b0f-f5ac-4ec2-85a2-38e7ae8707da" name="Changes" comment="" />
+      <created>1707621792475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707621792475</updated>
+      <workItem from="1707621831210" duration="2390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
