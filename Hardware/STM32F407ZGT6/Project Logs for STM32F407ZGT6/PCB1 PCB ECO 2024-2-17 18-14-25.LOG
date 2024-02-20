@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USART1_TX Pin=R23-1
+Removed Pin From Net: NetName=3.3V Pin=R23-2
+Removed Pin From Net: NetName=USART6_TX Pin=R24-1
+Removed Pin From Net: NetName=3.3V Pin=R24-2
+Removed Pin From Net: NetName=3.3V Pin=R27-1
+Removed Pin From Net: NetName=NetI4_1 Pin=R27-2
+Removed Pin From Net: NetName=3.3V Pin=R28-1
+Removed Pin From Net: NetName=NetI5_1 Pin=R28-2
+Removed Member From Class: ClassName=Sheet1 Member=R23
+Removed Member From Class: ClassName=Sheet1 Member=R24
+Removed Member From Class: ClassName=Sheet1 Member=R27
+Removed Member From Class: ClassName=Sheet1 Member=R28

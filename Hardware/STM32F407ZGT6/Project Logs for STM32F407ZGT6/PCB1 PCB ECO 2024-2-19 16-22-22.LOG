@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SWDIO Pin=R5-2
+Removed Pin From Net: NetName=SWCLK Pin=R6-2
+Added Pin To Net: NetName=SWCLK Pin=R5-2
+Added Pin To Net: NetName=SWDIO Pin=R6-2
